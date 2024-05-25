@@ -1,7 +1,6 @@
-<h1>😎 What a pleasure to see you!</h1>
+<h1>😎 Oh! Who's here?</h1>
 
-
-<p>Martin, my honor. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 Insider as well as Ubuntu Server user. Self-hosting enthusiast.</p>
+<p>Martin, 18 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 Insider as well as Ubuntu Server user. Self-hosting enthusiast.</p>
 <h3>Things I code with & use</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -22,7 +21,7 @@
   <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
-<h3>Open source projects</h3>
+<h3>Projects I'm actually proud of</h3>
 <table>
   <thead align="center">
     <tr border: none;>
