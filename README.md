@@ -1,6 +1,6 @@
 <h1>😎 Oh! Who's here?</h1>
 
-<p>Martin, 18 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 Insider as well as Ubuntu Server user. Self-hosting enthusiast.</p>
+<p>Martin, 19 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 Insider as well as Ubuntu Server user. Self-hosting enthusiast.</p>
 <h3>Things I code with & use</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
