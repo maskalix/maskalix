@@ -39,7 +39,7 @@
       <td><a href="https://github.com/maskalix/phprs-to-wordpress-db-transfer">phpRS to WordPress</a></td>
     </tr>
     <tr>
-      <td>and many more...</td>
+      <td>and many <a href="https://github.com/maskalix?tab=repositories">more...</a></td>
     </tr>
   </tbody>
 </table>
