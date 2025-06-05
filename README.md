@@ -1,6 +1,6 @@
 <h1>😎 Oh! Who's here?</h1>
 
-<p>Martin, 20 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 Insider as well as Ubuntu Server user. Self-hosting enthusiast.</p>
+<p>Martin, 20 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 as well as Ubuntu Server user. Self-hosting enthusiast.</p>
 <h3>Things I code with & use</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -8,8 +8,8 @@
   <img alt="npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
   <br>
   <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="VueJS" src="https://img.shields.io/badge/VUEJS-41b883?style=for-the-badge&logoColor=white&logo=vuedotjs&labelColor=41b883"/>
+  <img alt="Python" src="https://img.shields.io/badge/python-3b77a6?style=for-the-badge&logo=python&labelColor=3b77a6&logoColor=white">
   <img alt="SH" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
