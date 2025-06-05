@@ -30,6 +30,9 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/maskalix/quantixy">Quantixy</a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/maskalix/cmnds">CMNDs</a></td>
     </tr>
     <tr>
