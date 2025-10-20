@@ -10,6 +10,7 @@
   <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/VUEJS-41b883?style=for-the-badge&logoColor=white&logo=vuedotjs&labelColor=41b883"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3b77a6?style=for-the-badge&logo=python&labelColor=3b77a6&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&labelColor=3b77a6&logoColor=white">
   <img alt="SH" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br>
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
