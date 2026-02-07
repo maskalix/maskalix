@@ -13,8 +13,7 @@
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&labelColor=3b77a6&logoColor=white">
   <img alt="SH" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br>
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <br>
+  <img alt="ZED" src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=for-the-badge" />
 </p>
 <h3>Proud user of</h3>
 <p>
