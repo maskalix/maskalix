@@ -47,3 +47,5 @@
     </tr>
   </tbody>
 </table>
+
+[![Husband Material: 62/100](https://githusb.com/api/badge/maskalix.svg)](https://githusb.com/u/maskalix)
