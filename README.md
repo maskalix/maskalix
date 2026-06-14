@@ -1,6 +1,9 @@
 <h1>😎 Oh! Who's here?</h1>
 
 <p>Martin, 21 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 as well as Ubuntu Server user. Self-hosting enthusiast.</p>
+
+[![GitGud Score](https://gitgud.lnln.eu/api/badge/maskalix@dark~swiss.svg)](https://gitgud.lnln.eu/u/maskalix)
+
 <h3>Things I code with & use</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
@@ -9,12 +12,16 @@
   <br>
   <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="VueJS" src="https://img.shields.io/badge/VUEJS-41b883?style=for-the-badge&logoColor=white&logo=vuedotjs&labelColor=41b883"/>
-  <img alt="VueJS" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3b77a6?style=for-the-badge&logo=python&labelColor=3b77a6&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&labelColor=3b77a6&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="SH" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <br>
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img alt="ZED" src="https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF&style=for-the-badge" />
+  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaGVpZ2h0PSIxZW0iIHN0eWxlPSJmbGV4Om5vbmU7bGluZS1oZWlnaHQ6MSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5BbnRpZ3Jhdml0eTwvdGl0bGU+PHBhdGggZD0iTTIxLjc1MSAyMi42MDdjMS4zNCAxLjAwNSAzLjM1LjMzNSAxLjUwOC0xLjUwOEMxNy43MyAxNS43NCAxOC45MDQgMSAxMi4wMzcgMSA1LjE3IDEgNi4zNDIgMTUuNzQuODE1IDIxLjFjLTIuMDEgMi4wMDkuMTY3IDIuNTExIDEuNTA3IDEuNTA2IDUuMTkyLTMuNTE3IDQuODU3LTkuNzE0IDkuNzE1LTkuNzE0IDQuODU3IDAgNC41MjIgNi4xOTcgOS43MTQgOS43MTV6Ij48L3BhdGg+PC9zdmc+" />
+  <img alt="Tabby" src="https://img.shields.io/badge/Tabby-0c131b?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 </p>
 <h3>Proud user of</h3>
 <p>
@@ -47,7 +54,5 @@
     </tr>
   </tbody>
 </table>
-
-[![GitGud Score](https://hub.lnln.eu/api/badge/maskalix@light~swiss.svg)](https://hub.lnln.eu/u/maskalix)
 
 [![Husband Material: 62/100](https://githusb.com/api/badge/maskalix.svg)](https://githusb.com/u/maskalix)
