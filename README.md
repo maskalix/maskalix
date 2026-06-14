@@ -48,4 +48,6 @@
   </tbody>
 </table>
 
+[![GitGud Score](https://hub.lnln.eu/api/badge/maskalix~minimal.svg)](https://hub.lnln.eu/u/maskalix)
+
 [![Husband Material: 62/100](https://githusb.com/api/badge/maskalix.svg)](https://githusb.com/u/maskalix)
