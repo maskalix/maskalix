@@ -1,5 +1,5 @@
 # 😎 Oh! Who's here?
-<p align="center">
+<p>
   <img src="mjs_banner.svg" alt="Martin J. Skalicky — Digital Architect" width="640">
 </p>
 
