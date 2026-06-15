@@ -20,8 +20,8 @@
 
   <!-- logo (left). Renders when opened directly; blank on GitHub/Gitea unless base64-embedded -->
   <image x="28" y="38" width="100" height="100" preserveAspectRatio="xMidYMid meet"
-         href="https://typestor.lnln.eu//brand/mjs/image/mjs_d_t.png"
-         xlink:href="https://typestor.lnln.eu//brand/mjs/image/mjs_d_t.png"/>
+         href="./mjs_d_t.png"
+         xlink:href="./mjs_d_t.png"/>
 
   <!-- name -->
   <g font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-weight="700" fill="#f2f5f3">
