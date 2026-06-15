@@ -3,11 +3,11 @@
   <img src="mjs_banner.svg" alt="Martin J. Skalicky — Digital Architect" width="640">
 </p>
 
-$\text{Martin,}$ $\text{21}$ $\text{y.o.,}$ $\text{pleasure}$ $\text{to}$ $\text{meet}$ $\text{you.}$ $\text{I'm}$ $\text{junior}$ $\text{programmer,}$ $\text{doing}$ $\text{websites}$ $\text{and}$ $\text{scripts/utilities}$ $\text{for}$ $\text{Linux,}$ $\text{Android}$ $\text{and}$ $\text{Windows.}$ $\text{Proud}$ $\text{Windows}$ $\text{11}$ $\text{as}$ $\text{well}$ $\text{as}$ $\text{Ubuntu}$ $\text{Server}$ $\text{user.}$ $\text{Self-hosting}$ $\text{enthusiast.}$
+Martin, 21 y.o., pleasure to meet you. I'm junior programmer, doing websites and scripts/utilities for Linux, Android and Windows. Proud Windows 11 as well as Ubuntu Server user. Self-hosting enthusiast.
 
 [![GitGud Score](https://gitgud.lnln.eu/api/badge/maskalix@dark~swiss.svg)](https://gitgud.lnln.eu/u/maskalix)
 
-### $\large\textbf{Things I code with and use}$
+### Things I code with and use
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425" />
@@ -27,14 +27,14 @@ $\text{Martin,}$ $\text{21}$ $\text{y.o.,}$ $\text{pleasure}$ $\text{to}$ $\text
   <img alt="Tabby" src="https://img.shields.io/badge/Tabby-0c131b?style=for-the-badge&logo=windowsterminal&logoColor=white" />
 </p>
 
-### $\large\textbf{Proud user of}$
+### Proud user of
 <p>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
-### $\large\textbf{Projects I'm actually proud of}$
+### Projects I'm actually proud of
 <table>
   <thead align="center">
     <tr border: none;>
