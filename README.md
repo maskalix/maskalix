@@ -34,6 +34,39 @@ Martin, 21 y.o., pleasure to meet you. I'm junior programmer, doing websites and
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+### Personal Wikis I maintain
+<p>
+  Notes, configs and how-tos I keep for myself (and anyone who finds them useful).<br>
+  🌐 All of them live at <a href="https://wiki.lnln.eu"><b>wiki.lnln.eu</b></a>
+  , which is also preffered way - Github's just a data storage.
+</p>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📚 Wiki</b></td>
+      <td><b>What's inside</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/maskalix/homelab">maskalix/homelab</a></td>
+      <td>Homelab depot</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/maskalix/sitarina">maskalix/sitarina</a></td>
+      <td>Síťařina — networking basics</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/maskalix/os">maskalix/os</a></td>
+      <td>Operating systems basics</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/maskalix/ui">maskalix/ui</a></td>
+      <td>Artificial intelligence basics</td>
+    </tr>
+  </tbody>
+</table>
+
 ### Projects I'm actually proud of
 <table>
   <thead align="center">
